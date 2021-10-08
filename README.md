@@ -4,7 +4,7 @@ This is week 6 prac of SIT725. It uses test like chai
 #Run the Application
 • open the application in vscode using 'git clone'
 
-• run the command npm i  to install dependencies
+• run the command '$ npm i'  to install dependencies
 
 • and run it using '$ npm start' command
 
