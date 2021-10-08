@@ -2,7 +2,7 @@
 
 This is week 6 prac of SIT725. It uses test like chai
 
-#Run the Application
+# Run the Application
 
 • open the application in vscode using 'git clone'
 
@@ -10,7 +10,7 @@ This is week 6 prac of SIT725. It uses test like chai
 
 • and run it using '$ npm start' command
 
-#Copyrights
+# Copyrights
 
 Copyright (c) 2021 Satvika Reddy Maddu
 
